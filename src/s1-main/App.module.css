@@ -1,11 +1,20 @@
 .App {
     --header_height: 60px;
+    background-color: aqua;
+    width: 1000px;
+    margin: auto;
 }
 
+.hw img {width: 66px;}
 .hw {
 
+  background-color: rgba(0, 255, 72, 0.495);
+  width: 800px;
+  margin: auto;
 }
 
 .hwTitle {
-
+  background-color: rgb(229, 255, 0);
+  width: 800px;
+  margin: auto;
 }
